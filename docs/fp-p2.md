@@ -1,4 +1,4 @@
-# Práctica 2: Retrollamadas y futuros
+# Retrollamadas y Futuros
 
 ## Repaso de conceptos teóricos
 

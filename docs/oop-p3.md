@@ -1,4 +1,4 @@
-# Práctica 3: Inyección de dependencias & Aspectos
+# Inyección de dependencias y Aspectos
 
 ## Ejercicios propuestos
 

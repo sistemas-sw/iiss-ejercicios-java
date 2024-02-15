@@ -1,4 +1,4 @@
-# Práctica 4: Tratamiento de errores
+# Tratamiento de errores
 
 ## Repaso de conceptos teóricos
 

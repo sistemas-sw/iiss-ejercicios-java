@@ -1,4 +1,4 @@
-# Práctica 2: Refactoring
+# Refactoring
 
 ## Refactoring
 

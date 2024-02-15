@@ -1,4 +1,4 @@
-# Práctica 1: Herencia, composición y polimorfismo
+# Herencia, delegación y polimorfismo
 
 ## Ejercicios propuestos
 

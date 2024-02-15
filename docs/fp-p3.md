@@ -1,4 +1,4 @@
-# Práctica 3: Streams
+# Streams
 
 ## Repaso de conceptos teóricos
 

@@ -1,4 +1,4 @@
-# Práctica 1: Anónimos & Cierres
+# Anónimos y Cierres
 
 ## Ejercicios propuestos
 
